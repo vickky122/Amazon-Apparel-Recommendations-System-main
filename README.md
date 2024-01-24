@@ -1,4 +1,4 @@
-# Amazon Apparel Recommendations System
+# Fashion Fusion
 
 ![amazon](https://gitlab.com/akashbangalkar/amazon-apparel-recommendations-system/-/raw/main/amazon-apparel.jpg)
 
@@ -90,5 +90,4 @@ _For eg. we know that the words 'tiger' and 'leopard' are related, also 'zebra' 
     - _i.e., Solution 1 is better than Solution 2 because after testing on users, they tend to prefer Solution 1_.
 ![A/B Testing](https://gitlab.com/akashbangalkar/amazon-apparel-recommendations-system/-/raw/main/ab_testing.png)
 
-**Reference**<br>
-  - Applied AI - https://www.appliedaicourse.com/
+
